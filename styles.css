@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    margin-bottom: 30px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+section {
+    padding: 60px 0;
+}
+
+#formMessage {
+    display: flex;
+    justify-content: center;
+}
